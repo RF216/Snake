@@ -1,0 +1,9 @@
+31	Jimmy
+12	Ryan
+07	Richard
+04	Joey
+21	Karas
+
+08	Chung
+01	LosingScore
+14	Bob
